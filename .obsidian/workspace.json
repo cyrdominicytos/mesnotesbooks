@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réservation.md",
+                "file": "Idépendance Financière/Idées de projets/Back log.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réservation.md",
+                "file": "Idépendance Financière/Idées de projets/Back log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réservation.md",
+                "file": "Idépendance Financière/Idées de projets/Back log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réservation.md"
+                "file": "Idépendance Financière/Idées de projets/Back log.md"
               }
             }
           }
@@ -243,9 +243,12 @@
   },
   "active": "d6d7372fad847c48",
   "lastOpenFiles": [
+    "Réservation.md",
+    "Idépendance Financière/Idées de projets/Back log.md",
+    "Idépendance Financière/Idées de projets",
+    "Idépendance Financière",
     "Pasted image 20240722004226.png",
     "Pasted image 20240722003748.png",
-    "Réservation.md",
     "Projets/Perso/Job.md",
     "Projets/Perso/Impot.md",
     "Projets/Perso/Entretien - Winside - Solocal.md",
@@ -278,7 +281,6 @@
     "Pasted image 20240603155606.png",
     "Pasted image 20240603155445.png",
     "Pasted image 20240603071111.png",
-    "Pasted image 20240603070755.png",
     "Projets/Ecole/MMM",
     "Projets/PROJETPRO",
     "Note de Cours/IDA",
@@ -288,8 +290,6 @@
     "Projets/Ecole",
     "Projets/Perso",
     "Sans titre.canvas",
-    "Note de Cours/MDP",
-    "Projets",
-    "Note de Cours/MMM"
+    "Note de Cours/MDP"
   ]
 }
